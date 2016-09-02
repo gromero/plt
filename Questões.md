@@ -1,5 +1,0 @@
-Questões
-========
-
-1. Existe um envolvimento da GOT quando o objeto final é linkado estático?
-2. A GOT tem alguma relação com far jumps?
